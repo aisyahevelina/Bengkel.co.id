@@ -56,6 +56,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/kontak-kami</loc>
+		<lastmod>2024-07-31T02:49:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/las/teralis</loc>
 		<lastmod>2024-07-30T10:47:44+00:00</lastmod>
 		<image:image>
@@ -379,13 +386,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/Teralis.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/kontak-kami</loc>
-		<lastmod>2024-07-05T07:23:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
